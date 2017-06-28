@@ -8,8 +8,6 @@ ms.technology:
   - "cpp-windows"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
-f1_keywords: 
-  - "WM_COMMAND"
 dev_langs: 
   - "C++"
 helpviewer_keywords: 
